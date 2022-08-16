@@ -10,15 +10,15 @@ This repository contains sample code for curating a bespoke dataset that can be 
 
 These are unique 12 character alpha-numeric codes that uniquely identify securities. The first two letters of an ISIN code usually represents the jursidiction where a particular stock or bond was issued, For Russia securities, this two letter code is "RU". 
 
-# Source
+## Source
 
 The code scrapes data from the NSD, the National Settlement Depository (NSD). The NSD is responsible for assigning ISINs issued within Russia. It is also [sanctioned by the European Union](https://ec.europa.eu/info/sites/default/files/business_economy_euro/banking_and_finance/documents/faqs-sanctions-russia-central-securities-depositories_en.pdf)
 
-# What was found?
+## What was found?
 
 ~ [25,000 ISINs] were identified.
 
-# What else was found?
+## What else was found?
 
 The type of data uncovered from the full NSD dataset was rich in identifiers. For instance:
 
