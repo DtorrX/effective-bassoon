@@ -3,20 +3,8 @@ from bs4 import BeautifulSoup
 import requests
 import json
 import os 
-from deep_translator import GoogleTranslator
-# from deep_translator import (GoogleTranslator,
-#                              MicrosoftTranslator,
-#                              PonsTranslator,
-#                              LingueeTranslator,
-#                              MyMemoryTranslator,
-#                              YandexTranslator,
-#                              PapagoTranslator,
-#                              DeepL,
-#                              QCRI,
-#                              single_detection,
-#                              batch_detection)
 
-# page 871 - 1014 display ISIN without TIN / table.
+
 pagenumber = str(1014)
 
 
@@ -42,7 +30,6 @@ def link_extract(list_of_range):
 
 
 
-# link_extract(createList(0,870)) download
 
 # takes security url id as arg
 def existence(sec_id, sec_data):
@@ -81,11 +68,3 @@ def targets():
 	return(list_of_ids)
 
 
-# data_extractor(targets())
-
-f = open('new data/?id22=632006.json')
-data = json.load(f)
-translated = GoogleTranslator(source='auto', target='en').translate(data)
-#translated = GoogleTranslator(source='auto', target='de').translate("keep it up, you are awesome") 
-print((data))
-#print(translated)
