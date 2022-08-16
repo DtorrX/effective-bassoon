@@ -34,4 +34,4 @@ Russian entities appears to be limiting access to websites for users based in un
 
 
 [25,000 ISINs]: http://www.reddit.com](https://github.com/DtorrX/effective-bassoon/blob/main/master_list.csv
-[unfriendly states] : http://publication.pravo.gov.ru/Document/View/0001202205030001 
+[unfriendly states]: http://publication.pravo.gov.ru/Document/View/0001202205030001 
