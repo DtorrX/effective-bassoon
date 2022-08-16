@@ -16,7 +16,7 @@ The code scrapes data from the NSD, the National Settlement Depository (NSD). Th
 
 # What was found?
 
-~(25,000)[https://github.com/DtorrX/effective-bassoon/blob/main/master_list.csv] ISINs were identified.
+~25,000[https://github.com/DtorrX/effective-bassoon/blob/main/master_list.csv] ISINs were identified.
 
 The type of data uncovered from the NSD was rich in identifiers. For instance:
 
