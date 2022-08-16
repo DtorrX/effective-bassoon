@@ -30,7 +30,7 @@ Given any subsequent issued by InterTradeInvest would now be subject to U.S. res
 
 ## Why is is important?
 
-Russian entities appears to be limiting access to websites for users based in unfriendly states
+Russian websites appear to be limiting access for users based in [unfriendly states]. This is likely in part an effort to blunt the impact of sanctions, which have inreasingly restricted a broad range of financial activity that was criticial for lubricating the financial empires of oligarchs, as well as large complex, state owned enterprises in the energy, aviation and high-tech sectors.  The NSD website has similarly been limiting access to securities data.
 
 
 [25,000 ISINs]: http://www.reddit.com](https://github.com/DtorrX/effective-bassoon/blob/main/master_list.csv
