@@ -1,6 +1,6 @@
 # effective-bassoon
 
-## List of ISINS subject to investment ban under U.S. sanctions
+## List of ISINS subject to investment ban under U.S. / EU sanctions
 
 This is a repository of Russian ISINs that are subjec to an investment ban under [Executive Order 14071](https://home.treasury.gov/system/files/126/14071.pdf). Under the Order, the Office of Foreign Assets Control (OFAC) has indicated that U.S. persons are prohibited from purchasing any Russian securities such as debt and equity.
 
