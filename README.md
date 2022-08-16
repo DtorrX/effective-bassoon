@@ -13,3 +13,7 @@ These are unique 12 character alpha-numeric codes that uniquely identify securit
 # Source
 
 The code scrapes data from the NSD, the National Settlement Depository (NSD). The NSD is responsible for assigning ISINs issued within Russia. It is also [sanctioned by the European Union](https://ec.europa.eu/info/sites/default/files/business_economy_euro/banking_and_finance/documents/faqs-sanctions-russia-central-securities-depositories_en.pdf)
+
+# What was found?
+
+The type of data uncovered from the NSD was rich in data. For instance, the first record, related to  
