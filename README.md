@@ -28,5 +28,10 @@ The type of data uncovered from the full NSD dataset was rich in identifiers. Fo
 
 Given any subsequent issued by InterTradeInvest would now be subject to U.S. restrictions and EU restrictions, identifying and blocking such securities is required. The data, which spans over a decade can be mined to identify subsquent issuers, or even related entities. 
 
+## Why is is important?
+
+Russian entities appears to be limiting access to websites for users based in unfriendly states
+
 
 [25,000 ISINs]: http://www.reddit.com](https://github.com/DtorrX/effective-bassoon/blob/main/master_list.csv
+[unfriendly states] : http://publication.pravo.gov.ru/Document/View/0001202205030001 
