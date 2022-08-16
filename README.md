@@ -16,12 +16,17 @@ The code scrapes data from the NSD, the National Settlement Depository (NSD). Th
 
 # What was found?
 
-~25,000[https://github.com/DtorrX/effective-bassoon/blob/main/master_list.csv] ISINs were identified.
+~ [25,000 ISINs] were identified.
 
-The type of data uncovered from the NSD was rich in identifiers. For instance:
+# What else was found?
+
+The type of data uncovered from the full NSD dataset was rich in identifiers. For instance:
 
 "Новости о присвоении кодов 28.09.09О присвоении  кода акциям обыкновенным   ОАО "ИнтерТрейдИнвест"Закрытое акционерное общество "Национальный депозитарный центр" извещает о присвоении 28 сентября 2009 года международного идентификационного кода  нижеперечисленным ценным бумагам:Открытое акционерное общество "ИнтерТрейдИнвест"Акции обыкновенные  Номинальная стоимость каждой ценной бумаги- 100.00Валюта номинала- Рубли код- 000089
 
 "News on assignment of codes 28.09.09About assignment of a code to shares of ordinary JSC "InterTradeInvest" Closed Joint Stock Company "National Depositary Center" announces the assignment on September 28, 2009 of an international identification code to the following securities: Open Joint Stock Company "InterTradeInvest" Ordinary shares Nominal value of each valuable paper - 100.00 face value - ruble code - 000089
 
-Given any subsequent issued by InterTradeInvest would now be subject to U.S. restrictions and EU restrictions, identifying and blocking such securities is required.
+Given any subsequent issued by InterTradeInvest would now be subject to U.S. restrictions and EU restrictions, identifying and blocking such securities is required. The data, which spans over a decade can be mined to identify subsquent issuers, or even related entities. 
+
+
+[25,000 ISINs]: http://www.reddit.com](https://github.com/DtorrX/effective-bassoon/blob/main/master_list.csv
